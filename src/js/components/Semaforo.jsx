@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Semaforo = () => {
-  const [color, setColor] = useState("rojo");
+  const [color, setColor] = useState("roja");
 
   return (
     <div className="semaforo">
